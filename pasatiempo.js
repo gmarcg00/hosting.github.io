@@ -25,7 +25,6 @@ function compruebaFila(fila){
                             rojoPalabra(1,4);
                         }
                     }else{
-                        alert("La palabra no está en el diccionario");
                         rojoPalabra(1,4);
                     } 
                 }
@@ -42,7 +41,6 @@ function compruebaFila(fila){
                         }
                     }else{
                         rojoPalabra(5,4);
-                        alert("La palabra no está en el diccionario");
                     }
                 }
                 break;
@@ -58,7 +56,7 @@ function compruebaFila(fila){
                         }  
                     }else{
                         rojoPalabra(9,4);
-                        alert("La palabra no está en el diccionario");
+                        
                     }
                 }
                 break;
@@ -74,7 +72,7 @@ function compruebaFila(fila){
                         }
                     }else{
                         rojoPalabra(13,4);
-                        alert("La palabra no está en el diccionario");
+                        
                     }
                 }
                 break;
@@ -90,7 +88,7 @@ function compruebaFila(fila){
                         }
                     }else{
                         rojoPalabra(17,4);
-                        alert("La palabra no está en el diccionario");
+                        
                     }
                 }
                 break;
@@ -105,7 +103,7 @@ function compruebaFila(fila){
                             alert("Solo puedes cambiar una letra de la palabra anterior");
                         }
                     }else{
-                        alert("La palabra no está en el diccionario");
+                        
                         rojoPalabra(21,4);
                     }
                 }
@@ -124,7 +122,7 @@ function compruebaFila(fila){
                             rojoPalabra(25,6);
                         }
                     }else{
-                        alert("La palabra no está en el diccionario");
+                        
                         rojoPalabra(25,6);
                     }
                 }
@@ -140,7 +138,7 @@ function compruebaFila(fila){
                             rojoPalabra(31,6);
                         }
                     }else{
-                        alert("La palabra no está en el diccionario");
+                        
                         rojoPalabra(31,6);
                     }
                 }
@@ -156,7 +154,7 @@ function compruebaFila(fila){
                             rojoPalabra(37,6);
                         }
                     }else{
-                        alert("La palabra no está en el diccionario");
+                        
                         rojoPalabra(37,6); 
                     }
                 }
@@ -172,7 +170,7 @@ function compruebaFila(fila){
                             rojoPalabra(43,6);
                         }
                     }else{
-                        alert("La palabra no está en el diccionario");
+                        
                         rojoPalabra(43,6);
                     }
                 }
@@ -188,7 +186,7 @@ function compruebaFila(fila){
                             rojoPalabra(49,6);
                         }
                     }else{
-                        alert("La palabra no está en el diccionario");
+                       
                         rojoPalabra(49,6);
                     }  
                 }
@@ -203,7 +201,7 @@ function compruebaFila(fila){
                             rojoPalabra(55,6);
                         }
                     }else{
-                        alert("La palabra no está en el diccionario");
+                        
                         rojoPalabra(55,6);
                     }
                 }
